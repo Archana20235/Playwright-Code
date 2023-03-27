@@ -1,0 +1,45 @@
+{
+    "cookies": [
+        {
+            "name": "visid_incap_2469092",
+            "value": "h/336/dOTgCwYeBampcUiwZGf2MAAAAAQUIPAAAAAACq1Ojj16AX+Z5L5gvBPpec",
+            "domain": ".lanexo.com",
+            "path": "/",
+            "expires": 1700758282,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "nlbi_2469092",
+            "value": "xuQvRsjFCkv7jmSAfpoy4gAAAAD2vAFiHwTzsyNyIhkdNi8A",
+            "domain": ".lanexo.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "incap_ses_708_2469092",
+            "value": "TlZEEPtSpnf0sK2cDFPTCQdGf2MAAAAAd2GrYaQEcO3RXKwNhKgb1w==",
+            "domain": ".lanexo.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "jwt",
+            "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsYXN0TmFtZSI6IlVzZXIxMSIsInNldHRpbmdzIjpbXSwic3Vic2NyaXB0aW9ucyI6IkFETS0yLTQtMCxBUFAtMi0xLTAsQVVELTItMS0wLEJBUy0yLTEtMCxDT04tMi0xLTAsREFTLTItMC0wLEVYUC0yLTAtMSxJTlQtMi0xLTAsTE9DLTItMC0wLFBSTy0yLTAtMCIsInJvbGVzIjpbIlJPTEVfQ09NUExFVEVfQVVESVRPUiIsIlJPTEVfREVWSUNFX01BTkFHRVIiLCJST0xFX0xBTkVYT19BRE1JTklTVFJBVE9SIiwiUk9MRV9FWFBFUklNRU5UX01BTkFHRVIiLCJST0xFX1JFU1RSSUNURURfQVVESVRPUiIsIlJPTEVfSU5WRU5UT1JZX01BTkFHRVIiLCJST0xFX0xPQ0FUSU9OX01BTkFHRVIiXSwic2Vzc2lvbklkIjoiNmVjYTdhOWMtZTUyYi00ZWY4LTllMzctYWM4N2E3MDQyZTAwIiwic2VydmljZXMiOiJhZG1pbmlzdHJhdGlvbi0yLTAtMixhcHByb3ZhbC0yLTEtMCxhdWRpdCBjb25zdW1lci0yLTAtMCxhdWRpdCBwcm9kdWNlci0yLTAtMCxhdWRpdC1jb25zdW1lci0yLTAtMCxhdWRpdC1wcm9kdWNlci0yLTAtMSxiYXNrZXQtMi0xLTAsY29uc3VtYWJsZS0yLTItMCxleHBlcmltZW50LTItMS0wLGdhdGV3YXktMi0wLTAsaW50ZWdyYXRpb24tMi0wLTAsbG9jYXRpb24tMi0xLTAsc2NoZWR1bGVyLTItMS0wLHVzZXItMi0xLTEsdXRpbGl0eS0yLTAtMSIsInVzZXJJZCI6IjBjODRlNTcwLWYwY2YtNDkxNy04ODc3LWJmMDQyNThkZTFlOCIsImRldmljZUlkIjoiNzVkNGE1NzgtYzRjNy00NzE3LThmMDYtMTBiNWYzOGU1NzMxIiwiZmlyc3ROYW1lIjoiQXV0b21hdGlvbiIsInRlbmFudElkIjoiQXV0b21hdGlvbl8xMSIsImV4cCI6MTY2OTI5NjE4NCwiaWF0IjoxNjY5Mjg1Mzg0LCJlbWFpbCI6ImF1dG9tYXRpb251c2VyMTFAZ21haWwuY29tIn0.0leOo6nHBHJodWZffYAPczL6IUWIkEGCfCEWz-JZxB63K39fqV4wn1VdClKD3PKBWYzgpu3efdZ-k0W9jtIDlQ",
+            "domain": "charlie.lanexo.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Strict"
+        }
+    ],
+    "origins": []
+}

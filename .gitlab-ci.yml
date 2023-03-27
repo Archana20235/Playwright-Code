@@ -1,0 +1,16 @@
+image: dfwpharb01.sial.com/baseos/nodejs:latest
+
+cache:
+    paths:
+        - node_modules/
+
+before_script:
+    - npm install
+
+stages:
+    - code_quality
+
+lint:
+    stage: code_quality
+    script:
+        - CI=true npm run lint

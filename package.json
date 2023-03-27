@@ -1,0 +1,36 @@
+{
+    "name": "lanexo-test-framework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "smoke": "npx playwright test tests/LoginLogout.spec.js",
+        "format:fix": "npx prettier . --write",
+        "lint": "npx eslint .",
+        "lint:fix": "npx eslint . --fix"
+    },
+    "keywords": [],
+    "author": "Archana Mohini",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.29.0-alpha-nov-19-2022",
+        "@typescript-eslint/eslint-plugin": "^5.50.0",
+        "allure": "0.0.0",
+        "allure-commandline": "^2.20.0",
+        "allure-playwright": "^2.0.0-beta.19",
+        "eslint": "^8.32.0",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-config-standard-with-typescript": "^32.0.0",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-n": "^15.6.1",
+        "eslint-plugin-prettier": "^4.2.1",
+        "eslint-plugin-promise": "^6.1.1",
+        "experimental-allure-playwright": "0.0.3",
+        "playwright": "^1.27.1",
+        "prettier": "2.8.3",
+        "typescript": "^4.9.4"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.3"
+    }
+}
